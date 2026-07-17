@@ -1,4 +1,4 @@
-# Day 6 – Microsoft Teams, SharePoint & Exchange Online Administration
+# Day 3 – Microsoft Teams, SharePoint & Exchange Online Administration
 
 ## Overview
 
